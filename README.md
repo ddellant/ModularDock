@@ -23,7 +23,8 @@ The STLs are not already in the proper orientation
 - 1 frame L bracket (optional)
 - 1 [tooltype] Base
 - 1 [tooltype] Back [type]
-- 1 Wiper [type]
+- 1 Blocker [type]
+- 1 Wiper [type] (optional)
 - 1 Container [type] (optional)
 - Combination of Links (only if not using crossbar for docks)
 
